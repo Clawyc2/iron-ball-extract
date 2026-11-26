@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "704925973475",
+    "project_id": "iron-1864e",
+    "storage_bucket": "iron-1864e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:704925973475:android:fcc945a97866f10f903ed6",
+        "android_client_info": {
+          "package_name": "com.iron.ball"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBey7j-ODIxh1E2_QxPBRLaMX9Y2J3hDqI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

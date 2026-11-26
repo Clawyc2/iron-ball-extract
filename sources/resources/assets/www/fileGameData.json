@@ -1,0 +1,361 @@
+{
+  "bots": [
+    {
+      "id": 1,
+      "unlockedLevel": 1,
+      "title": "bot1",
+      "items": [
+        {
+          "name": "moving speed",
+          "iconFrame": 0,
+          "valueBase": 100,
+          "valueMax": 600,
+          "valuePerLevel": 5,
+          "ironBallUpgradeBase": 6,
+          "ironBallUpgrade_X": 2,
+          "ironBallUpgrade_Y": 4
+        },
+        {
+          "name": "extraction rate",
+          "iconFrame": 1,
+          "valueBase": 1,
+          "valuePerLevel": 0.02,
+          "ironBallUpgradeBase": 10,
+          "ironBallUpgrade_X": 2,
+          "ironBallUpgrade_Y": 3
+        },
+        {
+          "name": "fixing time",
+          "iconFrame": 2,
+          "valueBase": 5,
+          "valueMax": 0,
+          "valuePerLevel": -0.05,
+          "ironBallUpgradeBase": 12,
+          "ironBallUpgrade_X": 2,
+          "ironBallUpgrade_Y": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "unlockedLevel": 4,
+      "title": "bot 2",
+      "items": [
+        {
+          "name": "moving speed",
+          "iconFrame": 0,
+          "valueBase": 120,
+          "valueMax": 600,
+          "valuePerLevel": 6,
+          "ironBallUpgradeBase": 7,
+          "ironBallUpgrade_X": 3,
+          "ironBallUpgrade_Y": 4
+        },
+        {
+          "name": "extraction rate",
+          "iconFrame": 1,
+          "valueBase": 2,
+          "valuePerLevel": 0.05,
+          "ironBallUpgradeBase": 15,
+          "ironBallUpgrade_X": 3,
+          "ironBallUpgrade_Y": 4
+        },
+        {
+          "name": "fixing time",
+          "iconFrame": 2,
+          "valueBase": 6,
+          "valueMax": 0,
+          "valuePerLevel": -0.05,
+          "ironBallUpgradeBase": 13,
+          "ironBallUpgrade_X": 3,
+          "ironBallUpgrade_Y": 2
+        },
+        {
+          "name": "% big ball (x3)",
+          "iconFrame": 3,
+          "valueBase": 20,
+          "valueMax": 65,
+          "valuePerLevel": 0.5,
+          "ironBallUpgradeBase": 150,
+          "ironBallUpgrade_X": 85,
+          "ironBallUpgrade_Y": 75
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "unlockedLevel": 10,
+      "title": "bot3",
+      "items": [
+        {
+          "name": "moving speed",
+          "iconFrame": 0,
+          "valueBase": 150,
+          "valueMax": 650,
+          "valuePerLevel": 5,
+          "ironBallUpgradeBase": 6,
+          "ironBallUpgrade_X": 2,
+          "ironBallUpgrade_Y": 5
+        },
+        {
+          "name": "extraction rate",
+          "iconFrame": 1,
+          "valueBase": 3,
+          "valuePerLevel": 0.08,
+          "ironBallUpgradeBase": 18,
+          "ironBallUpgrade_X": 6,
+          "ironBallUpgrade_Y": 6
+        },
+        {
+          "name": "fixing time",
+          "iconFrame": 2,
+          "valueBase": 7,
+          "valueMax": 1,
+          "valuePerLevel": -0.05,
+          "ironBallUpgradeBase": 15,
+          "ironBallUpgrade_X": 4,
+          "ironBallUpgrade_Y": 3
+        },
+        {
+          "name": "% get 1 gold",
+          "iconFrame": 4,
+          "valueBase": 0.4,
+          "valueMax": 2,
+          "valuePerLevel": 0.02,
+          "ironBallUpgradeBase": 165,
+          "ironBallUpgrade_X": 65,
+          "ironBallUpgrade_Y": 120
+        }
+      ]
+    }
+  ],
+  "lab": [
+    {
+      "name": "add more speed for bot",
+      "valueBase": 0,
+      "valuePerLevel": 5,
+      "valueMax": 100,
+      "gemUpgradeBase": 1,
+      "gemX": 1,
+      "gemY": 3
+    },
+    {
+      "name": "+ 1 engine booster bot",
+      "valueBase": 0,
+      "valuePerLevel": 1,
+      "valueMax": 2,
+      "gemUpgradeBase": 25,
+      "gemX": 100,
+      "gemY": 1
+    },
+    {
+      "name": "output speed factory",
+      "valueBase": 0,
+      "valuePerLevel": 0.02,
+      "valueMax": 0.3,
+      "gemUpgradeBase": 1,
+      "gemX": 1,
+      "gemY": 4
+    },
+    {
+      "name": "decrease gold mine time (s)",
+      "valueBase": 0,
+      "valuePerLevel": 5,
+      "valueMax": 130,
+      "gemUpgradeBase": 1,
+      "gemX": 1,
+      "gemY": 4
+    },
+    {
+      "name": "decrease gem tower time (s)",
+      "valueBase": 0,
+      "valuePerLevel": 4,
+      "valueMax": 120,
+      "gemUpgradeBase": 1,
+      "gemX": 1,
+      "gemY": 3
+    },
+    {
+      "name": "reduce pusher reload (s)",
+      "valueBase": 0,
+      "valuePerLevel": 6,
+      "valueMax": 90,
+      "gemUpgradeBase": 2,
+      "gemX": 1,
+      "gemY": 3
+    },
+    {
+      "name": "+ time engine ms",
+      "valueBase": 0,
+      "valuePerLevel": 10,
+      "valueMax": 180,
+      "gemUpgradeBase": 2,
+      "gemX": 2,
+      "gemY": 4
+    },
+    {
+      "name": "+ time engine ball value",
+      "valueBase": 0,
+      "valuePerLevel": 10,
+      "valueMax": 180,
+      "gemUpgradeBase": 2,
+      "gemX": 2,
+      "gemY": 4
+    },
+    {
+      "name": "+ time engine fixing time",
+      "valueBase": 0,
+      "valuePerLevel": 10,
+      "valueMax": 180,
+      "gemUpgradeBase": 2,
+      "gemX": 2,
+      "gemY": 4
+    },
+    {
+      "name": "engine core add more (%)",
+      "valueBase": 0,
+      "valuePerLevel": 2,
+      "valueMax": 30,
+      "gemUpgradeBase": 3,
+      "gemX": 3,
+      "gemY": 3
+    }
+  ],
+  "botsMachine": {
+    "capacity": {
+      "base": 5,
+      "a": 2,
+      "goldUpgradeBase": 5,
+      "b": 10,
+      "c": 10,
+      "d": 2
+    },
+    "createBot": {
+      "base": 0,
+      "a": 1,
+      "ironBallUpgrade": 5,
+      "b": 15,
+      "c": 20,
+      "d": 2
+    }
+  },
+  "factory": {
+    "capacity": {
+      "base": 4,
+      "a": 2,
+      "goldUpgradeBase": 5,
+      "b": 30,
+      "c": 10,
+      "d": 2
+    },
+    "speedBot": {
+      "base": 0.05,
+      "a": 0.01,
+      "ironBallUpgrade": 8,
+      "b": 12,
+      "c": 6,
+      "d": 3
+    },
+    "speedTotalBase": 0.15,
+    "botNumberToBuild1Floor": 8
+  },
+  "cannon": {
+    "reloadTime": {
+      "base": 8,
+      "max": 3,
+      "changePerLevel": 0.1,
+      "ironBallUpgrade": 10,
+      "b": 12,
+      "c": 5,
+      "d": 3
+    },
+    "valueIronBall": {
+      "base": 5,
+      "changePerLevel": 0.25,
+      "ironBallUpgrade": 20,
+      "b": 16,
+      "c": 10,
+      "d": 3
+    },
+    "doubleShot": {
+      "base": 2,
+      "max": 30,
+      "changePerLevel": 0.2,
+      "ironBallUpgrade": 25,
+      "b": 20,
+      "c": 15,
+      "d": 3
+    },
+    "bigBall": {
+      "base": 1,
+      "max": 25,
+      "changePerLevel": 0.3,
+      "ironBallUpgrade": 35,
+      "b": 25,
+      "c": 20,
+      "d": 4
+    }
+  },
+  "hotAirBalloon": {
+    "valueIronBall": {
+      "base": 1.5,
+      "changePerLevel": 0.1,
+      "ironBallUpgrade": 12,
+      "b": 15,
+      "c": 7,
+      "d": 2
+    },
+    "numberOfBalls": {
+      "base": 3,
+      "max": 30,
+      "changePerLevel": 1,
+      "ironBallUpgrade": 50,
+      "b": 30,
+      "c": 10,
+      "d": 2
+    },
+    "collectionTime": {
+      "base": 7,
+      "min": 1.5,
+      "changePerLevel": 0.05,
+      "ironBallUpgrade": 12,
+      "b": 20,
+      "c": 15,
+      "d": 2
+    },
+    "goldDrop": {
+      "base": 0.5,
+      "max": 1.5,
+      "changePerLevel": 0.01,
+      "ironBallUpgrade": 250,
+      "b": 100,
+      "c": 150,
+      "d": 2
+    }
+  },
+  "goldMine": {
+    "botSignedMax": 3,
+    "timeDigging": 250
+  },
+  "gemTower": {
+    "botSignedMax": 5,
+    "timeDigging": 540
+  },
+  "engineCore": {
+    "botSignedMax": 8,
+    "timeScaleMin": 120
+  },
+  "engineBooster": {
+    "movingSpeed_time": 900,
+    "ironBallValue_time": 900,
+    "fixingTime_time": 900
+  },
+  "game": {
+    "startIronBall": 18,
+    "labUnlockLevel": 12,
+    "botsUnlockLevel": 2,
+    "storeUnlockLevel": 1,
+    "pusherBotTime": 300
+  },
+  "changelog": "fixed:\n- overflowing iron ball.\n- invisible ball.\n- cleaner bot.\nthank you!"
+}

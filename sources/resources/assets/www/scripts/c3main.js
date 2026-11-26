@@ -1,0 +1,10 @@
+import "./../box2d.wasm.js";
+import "./c3runtime.js";
+import "./plugins/CV_PlayFabClient_Authentication/c3runtime/main.js";
+import "./plugins/CV_PlayFabClient_APIModule/c3runtime/main.js";
+import "./plugins/CV_PlayFabClient_TitleManager/c3runtime/main.js";
+import "./plugins/CV_PlayFabClient_UserData/c3runtime/main.js";
+import "./plugins/CV_MobileInfo/c3runtime/main.js";
+import "./plugins/EMI_INDO_Firebase_AnalyticsNew/c3runtime/main.js";
+import "./plugins/CV_PlayFabClient_PlayerManager/c3runtime/main.js";
+import "./objRefTable.js";

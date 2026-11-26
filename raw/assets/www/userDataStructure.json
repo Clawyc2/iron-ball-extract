@@ -1,0 +1,88 @@
+{
+  "resource_gold": 0,
+  "resource_gem": 0,
+  "resource_ironBall": 0,
+  "bots": [
+    {
+      "items": [
+        {
+          "level": 0
+        }
+      ]
+    }
+  ],
+  "botsMachine": {
+    "capacity": {
+      "level": 0
+    }
+  },
+  "lab": [
+  {
+    "level":1
+  },
+  {
+    "name": "+ 1 engine booster bot",
+    "valueBase": 12,
+    "valuePerLevel": 2,
+    "ironBallUpgradeBase": 12,
+    "ironBallUpgrade_X": 2,
+    "ironBallUpgrade_Y": 2
+  },
+  {
+    "name": "output speed factory",
+    "valueBase": 12,
+    "valuePerLevel": 2,
+    "ironBallUpgradeBase": 12,
+    "ironBallUpgrade_X": 2,
+    "ironBallUpgrade_Y": 2
+  },
+  {
+    "name": "gold mine output speed",
+    "valueBase": 12,
+    "valuePerLevel": 2,
+    "ironBallUpgradeBase": 12,
+    "ironBallUpgrade_X": 2,
+    "ironBallUpgrade_Y": 2
+  },
+  {
+    "name": "gem tower output speed",
+    "valueBase": 12,
+    "valuePerLevel": 2,
+    "ironBallUpgradeBase": 12,
+    "ironBallUpgrade_X": 2,
+    "ironBallUpgrade_Y": 2
+  },
+  {
+    "name": "pusher bot reload",
+    "valueBase": 12,
+    "valuePerLevel": 2,
+    "ironBallUpgradeBase": 12,
+    "ironBallUpgrade_X": 2,
+    "ironBallUpgrade_Y": 2
+  },
+  {
+    "name": "+ time engine ms",
+    "valueBase": 12,
+    "valuePerLevel": 2,
+    "ironBallUpgradeBase": 12,
+    "ironBallUpgrade_X": 2,
+    "ironBallUpgrade_Y": 2
+  },
+  {
+    "name": "+ time engine ball value",
+    "valueBase": 12,
+    "valuePerLevel": 2,
+    "ironBallUpgradeBase": 12,
+    "ironBallUpgrade_X": 2,
+    "ironBallUpgrade_Y": 2
+  },
+  {
+    "name": "+ time engine fixing time",
+    "valueBase": 12,
+    "valuePerLevel": 2,
+    "ironBallUpgradeBase": 12,
+    "ironBallUpgrade_X": 2,
+    "ironBallUpgrade_Y": 2
+  }
+],
+}

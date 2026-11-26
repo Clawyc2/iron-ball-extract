@@ -1,0 +1,9 @@
+# Binarios repetibles — regenerables, ver README.md "Regenerar lo omitido"
+# smali (160 MB): bytecode ya presente como DEX en raw/ y Java en sources/
+apktool_out/smali/
+apktool_out/smali_classes2/
+# assets copiados por apktool: idénticos a raw/assets/
+apktool_out/assets/
+
+# XAPK contenedor (mismo base APK ya incluido en apk/)
+*.xapk
